@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ajita Kumar",
+      "username": "ajita",
+      "email": "ajita@email.com",
+      "phone": "9876543210",
+      "website": "example.com",
+      "isActive": true,
+      "skills": ["React", "JS"],
+      "availableSlots": ["2026-03-01"],
+      "address": {
+        "street": "Main Road",
+        "city": "Hyderabad",
+        "zipcode": "500001"
+      },
+      "company": {
+        "name": "ABC Company"
+      },
+      "role": "Admin"
+    }
+  ]
+}
